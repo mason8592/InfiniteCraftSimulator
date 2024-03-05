@@ -1,0 +1,1 @@
+javascript:(function () {var script=document.createElement('script');script.src='https://raw.githubusercontent.com/mason8592/InfiniteCraftSimulator/main/sim.js';script.className='icsim';script.setAttribute('data-lang','en-US');script.setAttribute('data-baseuri','https://raw.githubusercontent.com');document.body.appendChild(script);}())

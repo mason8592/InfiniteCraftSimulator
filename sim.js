@@ -1,4 +1,4 @@
-javascript:(function(){
+(function(){
 document.getElementById('__nuxt').remove();
 let body = document.getElementsByTagName('body')[0];
 body.style = "height: 100vh; width: 100vw; background: #202020; display: flex; justify-content: center; align-items: center; flex-direction: column";
